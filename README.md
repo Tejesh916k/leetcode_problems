@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Tejesh916k/leetcode_problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Tejesh916k/leetcode_problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
