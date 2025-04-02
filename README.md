@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/Tejesh916k/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tejesh916k/leetcode_problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejesh916k/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/Tejesh916k/leetcode_problems/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejesh916k/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Tejesh916k/leetcode_problems/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
