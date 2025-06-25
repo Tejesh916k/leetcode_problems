@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejesh916k/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Tejesh916k/leetcode_problems/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tejesh916k/leetcode_problems/tree/master/0063-unique-paths-ii) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Tejesh916k/leetcode_problems/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Tejesh916k/leetcode_problems/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
