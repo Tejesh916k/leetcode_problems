@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Tejesh916k/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Tejesh916k/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tejesh916k/leetcode_problems/tree/master/0136-single-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Tejesh916k/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Tejesh916k/leetcode_problems/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Tejesh916k/leetcode_problems/tree/master/0394-decode-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tejesh916k/leetcode_problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
