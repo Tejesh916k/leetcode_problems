@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejesh916k/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Tejesh916k/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tejesh916k/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tejesh916k/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -37,13 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejesh916k/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Tejesh916k/leetcode_problems/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tejesh916k/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
 |  |
