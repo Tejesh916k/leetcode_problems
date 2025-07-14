@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Tejesh916k/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Tejesh916k/leetcode_problems/tree/master/0392-is-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Tejesh916k/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Tejesh916k/leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0392-is-subsequence](https://github.com/Tejesh916k/leetcode_problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Tejesh916k/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Tejesh916k/leetcode_problems/tree/master/0394-decode-string) |
 ## Recursion
 |  |
