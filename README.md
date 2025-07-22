@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tejesh916k/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tejesh916k/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejesh916k/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tejesh916k/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejesh916k/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tejesh916k/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tejesh916k/leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejesh916k/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
 | ------- |
