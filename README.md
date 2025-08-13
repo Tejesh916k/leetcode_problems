@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejesh916k/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/Tejesh916k/leetcode_problems/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Tejesh916k/leetcode_problems/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Tejesh916k/leetcode_problems/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
