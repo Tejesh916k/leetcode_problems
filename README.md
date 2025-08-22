@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejesh916k/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Tejesh916k/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Tejesh916k/leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tejesh916k/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Tejesh916k/leetcode_problems/tree/master/0392-is-subsequence) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Stack
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tejesh916k/leetcode_problems/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tejesh916k/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejesh916k/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tejesh916k/leetcode_problems/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tejesh916k/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Tejesh916k/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejesh916k/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tejesh916k/leetcode_problems/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tejesh916k/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejesh916k/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 ## Union Find
 |  |
