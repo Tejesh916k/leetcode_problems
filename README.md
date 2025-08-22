@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tejesh916k/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tejesh916k/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
+| [2689-rearranging-fruits](https://github.com/Tejesh916k/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tejesh916k/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [2689-rearranging-fruits](https://github.com/Tejesh916k/leetcode_problems/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tejesh916k/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejesh916k/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tejesh916k/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2689-rearranging-fruits](https://github.com/Tejesh916k/leetcode_problems/tree/master/2689-rearranging-fruits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Tejesh916k/leetcode_problems/tree/master/0130-surrounded-regions) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/Tejesh916k/leetcode_problems/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
