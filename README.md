@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2689-rearranging-fruits](https://github.com/Tejesh916k/leetcode_problems/tree/master/2689-rearranging-fruits) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Tejesh916k/leetcode_problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
